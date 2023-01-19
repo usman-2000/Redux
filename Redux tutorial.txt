@@ -1,0 +1,17 @@
+redux is a library for js apps
+state container means k is mn aik container hoga or us mn sari states mojod hungi.
+can easily send data between different components at different level. Without using props.
+redux mn state jo hoti hai wo outside pr bann jata hai uska aik container.
+
+REACT REDUx
+
+official redux ui binding library for react
+
+React ----------> React-Redux <---------------Redux
+
+
+THREE CORE CONCEPTS OF REDUX
+
+- Store-- that holds the state of your application.
+- Action-- that describes the changes in the state of the application.
+- Reducer-- which actually caries out the state transition depending on the action.
